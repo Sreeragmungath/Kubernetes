@@ -1,1 +1,1 @@
-# Kubernetes
+# Kubernetes minikube configuration files
